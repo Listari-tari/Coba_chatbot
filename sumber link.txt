@@ -1,0 +1,8 @@
+sumber pertama 
+https://www.youtube.com/watch?v=_U146hWhDhM&t=15s
+https://github.com/dineshjoshy/Chatbot_Project
+sumber utama
+https://pypi.org/project/ChatterBot/
+https://github.com/gunthercox/chatterbot-corpus/tree/master/chatterbot_corpus/data/indonesia
+install packages web socket
+https://github.com/dpallot/simple-websocket-server
